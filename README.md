@@ -7,13 +7,6 @@ A lightweight proxy server based on Flask and Requests, designed to:
 🚫 Overcome restrictions like Referer, User-Agent, etc.
 🐳 Be easily dockerizable on any machine or server
 
-☁️ Deploy to Render
-
-Go to Projects → Deploy a Web Service → Public Git Repo
-Enter the repo: https://github.com/nzo66/tvproxy → Connect
-Give it a name of your choice
-Set Instance Type to Free
-Click on Deploy Web Service
 
 🤗 Deploy to HuggingFace
 
@@ -22,5 +15,14 @@ Remember to do a factory rebuild to update the proxy if there are updates!
 Create a new Space
 Choose any name and set Docker as type
 Leave Public and create the Space
-Go to the top right → ⋮ → Files → upload DockerfileHF renaming it Dockerfile
+Go to the top right → ⋮ → Files → upload Dockerfile
 Finally go to ⋮ → Embed this Space to get the Direct URL
+
+
+☁️ <dev>Deploy to Render</dev>
+
+Go to Projects → Deploy a Web Service → Public Git Repo
+Enter the repo: https://github.com/nzo66/tvproxy → Connect
+Give it a name of your choice
+Set Instance Type to Free
+Click on Deploy Web Service
