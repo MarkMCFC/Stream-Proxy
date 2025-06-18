@@ -19,7 +19,7 @@ Go to the top right → ⋮ → Files → upload Dockerfile<br>
 Finally go to ⋮ → Embed this Space to get the Direct URL<br><br>
 
 
-☁️ <dev>Deploy to Render</dev><br>
+☁️ <dev>Deploy to Render TESTING</dev><br>
 
 Go to Projects → Deploy a Web Service → Public Git Repo<br>
 Enter the repo: https://github.com/nzo66/tvproxy → Connect<br>
