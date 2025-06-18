@@ -16,7 +16,9 @@ Create a new Space<br>
 Choose any name and set Docker as type<br>
 Leave Public and create the Space<br>
 Go to the top right → ⋮ → Files → upload Dockerfile<br>
-Finally go to ⋮ → Embed this Space to get the Direct URL<br><br>
+Finally go to ⋮ → Embed this Space to get the Direct URL<br>
+How to use: https://your.hugging.hf.space/http://video.url.here.m3u8<br>
+OR https://your.hugging.hf.space/?url=http://video.url.here.m3u8
 
 
 ☁️ <dev>Deploy to Render TESTING</dev><br>
