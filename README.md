@@ -1,28 +1,28 @@
-Dockerized M3U8 Proxy
+Dockerized M3U8 Proxy<br>
 
-A lightweight proxy server based on Flask and Requests, designed to:
+A lightweight proxy server based on Flask and Requests, designed to:<br>
 
-📥 Download and edit .m3u / .m3u8 streams
-🔁 Proxy .ts segments, keeping custom headers
-🚫 Overcome restrictions like Referer, User-Agent, etc.
-🐳 Be easily dockerizable on any machine or server
-
-
-🤗 Deploy to HuggingFace
-
-Remember to do a factory rebuild to update the proxy if there are updates!
-
-Create a new Space
-Choose any name and set Docker as type
-Leave Public and create the Space
-Go to the top right → ⋮ → Files → upload Dockerfile
-Finally go to ⋮ → Embed this Space to get the Direct URL
+📥 Download and edit .m3u / .m3u8 streams<br>
+🔁 Proxy .ts segments, keeping custom headers<br>
+🚫 Overcome restrictions like Referer, User-Agent, etc.<br>
+🐳 Be easily dockerizable on any machine or server<br>
 
 
-☁️ <dev>Deploy to Render</dev>
+🤗 Deploy to HuggingFace<br>
 
-Go to Projects → Deploy a Web Service → Public Git Repo
-Enter the repo: https://github.com/nzo66/tvproxy → Connect
-Give it a name of your choice
-Set Instance Type to Free
+Remember to do a factory rebuild to update the proxy if there are updates!<br>
+
+Create a new Space<br>
+Choose any name and set Docker as type<br>
+Leave Public and create the Space<br>
+Go to the top right → ⋮ → Files → upload Dockerfile<br>
+Finally go to ⋮ → Embed this Space to get the Direct URL<br>
+
+
+☁️ <dev>Deploy to Render</dev><br>
+
+Go to Projects → Deploy a Web Service → Public Git Repo<br>
+Enter the repo: https://github.com/nzo66/tvproxy → Connect<br>
+Give it a name of your choice<br>
+Set Instance Type to Free<br>
 Click on Deploy Web Service
