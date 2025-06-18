@@ -5,7 +5,7 @@ A lightweight proxy server based on Flask and Requests, designed to:<br>
 📥 Download and edit .m3u / .m3u8 streams<br>
 🔁 Proxy .ts segments, keeping custom headers<br>
 🚫 Overcome restrictions like Referer, User-Agent, etc.<br>
-🐳 Be easily dockerizable on any machine or server<br>
+🐳 Be easily dockerizable on any machine or server<br><br>
 
 
 🤗 Deploy to HuggingFace<br>
@@ -16,7 +16,7 @@ Create a new Space<br>
 Choose any name and set Docker as type<br>
 Leave Public and create the Space<br>
 Go to the top right → ⋮ → Files → upload Dockerfile<br>
-Finally go to ⋮ → Embed this Space to get the Direct URL<br>
+Finally go to ⋮ → Embed this Space to get the Direct URL<br><br>
 
 
 ☁️ <dev>Deploy to Render</dev><br>
